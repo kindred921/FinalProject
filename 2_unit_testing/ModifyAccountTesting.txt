@@ -1,0 +1,16 @@
+Modify Account Unit Testing:
+
+1) Navigate Here: http://localhost/accountManagement.php
+
+2) Select "Edit" next to an existing Account
+
+3) Modify one of the available data values
+
+4) Select Submit
+
+5) Navigate Here and confirm change has applied:http://localhost/accountManagement.php
+
+6) Open the database in phpmyAdmin and navigate to the "Employee" table:
+http://localhost/phpmyadmin/sql.php?server=1&db=employee_management_system&table=employee&pos=0
+
+7) Confirm change applied in the database

@@ -1,0 +1,14 @@
+Delete Account Unit Testing:
+
+1) Navigate Here: http://localhost/accountManagement.php
+
+2) Select "Delete" next to an existing Account
+
+3) A confirmation prompt should appear. Click Ok.
+
+4) Navigate Here and confirm record no longer exists: http://localhost/accountManagement.php
+
+5) Open the database in phpmyAdmin and navigate to the "Employee" table:
+http://localhost/phpmyadmin/sql.php?server=1&db=employee_management_system&table=employee&pos=0
+
+6) Confirm the record no longer appears in the database

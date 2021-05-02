@@ -1,0 +1,6 @@
+Add New Employee Record:
+
+1) Modify the INSERT statement below with different values and submit
+
+INSERT INTO `employee` (`userID`, `firstName`, `lastName`, `DOB`, `phone`, `email`, `password`, `active`, `startDate`, `endDate`, `boothID`) VALUES
+(1, 'Alyssa', 'Brumm', '0000-00-00', '2605559999', 'ambrumm@iu.edu', 'password', 1, '0000-00-00', '0000-00-00', NULL);

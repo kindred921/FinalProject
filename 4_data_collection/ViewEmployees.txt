@@ -1,0 +1,5 @@
+View All Employee Records:
+
+1) Open the database in PHPMyAdmin and enter the following query on the SQL tab
+
+SELECT * FROM `employee`

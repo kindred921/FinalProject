@@ -1,0 +1,12 @@
+Create Account Unit Testing:
+
+1) Navigate Here: http://localhost/createAccount.php 
+
+2) Enter First Name, Last Name, Date of Birth, Phone, Email & Password
+
+3) Select Submit
+
+4) Open the database in phpmyAdmin and navigate to the "Employee" table:
+http://localhost/phpmyadmin/sql.php?server=1&db=employee_management_system&table=employee&pos=0
+
+5) Confirm Account is there
